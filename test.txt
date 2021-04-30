@@ -6,7 +6,11 @@ preactice to learn git hub
 
 Edit secxond times
 
+Name
 
+Address
+
+Mobile No
 
 
 Thank you
